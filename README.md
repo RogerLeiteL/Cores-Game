@@ -23,3 +23,6 @@ botao.ondblclick = resetarJogo;
 ~~~
 ### Como Jogar
 Clique nos quadrados para mudar de cor, quando todas as cores forem iguais você ganhará, tente clickar 2 vezes em resetar para resetar.
+---
+### Jogue Aqui
+https://rogerleitel.github.io/Cores-Game/
