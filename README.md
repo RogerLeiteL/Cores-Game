@@ -7,8 +7,8 @@
 ---
 ### Ferramentas das linguagens 
 
-- Utilizamos em `CSS` display Flex e propriedades simples de edição
-- Em `Javascript`, utilizamos `FOR`, `MATH` e `FUNCTION`.
+- Utilizei em `CSS` display Flex e propriedades simples de edição
+- Em `JAVASCRIPT`, utilizei `FOR`, `MATH` e `FUNCTION`.
 ---
 **Ex: Função Resetar Jogo**
 ~~~
